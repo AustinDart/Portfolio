@@ -7,7 +7,7 @@ function Hero() {
               <h3 className='text-xl mt-2 text-gray-200'>Software Developer</h3>
           </div>
           <div className='flex justify-center mt-5'>
-            <img src='/me.png' alt='me' className='w-[192px] rounded-[100%] border border-black border-2' />
+            <img src='./me.png' alt='me' className='w-[192px] rounded-[100%] border border-black border-2' />
           </div>
       </div>
   );

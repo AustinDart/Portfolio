@@ -7,7 +7,7 @@ function Navbar() {
           <nav className='py-4 flex justify-between'>
               <NavIcon />
               <ul className='flex justify-between items-center w-[10%] mr-10'>
-                  <NavLink link='/#'>Home</NavLink>
+                  <NavLink link='/portfolio/'>Home</NavLink>
               </ul>
           </nav>
       </div>
